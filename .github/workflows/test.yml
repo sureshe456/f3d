@@ -1,4 +1,4 @@
-name: CI
+name: Testing issue-9712
 
 on:
   workflow_dispatch:
